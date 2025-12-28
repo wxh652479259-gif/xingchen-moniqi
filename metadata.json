@@ -1,0 +1,5 @@
+{
+  "name": "Copy of 星辰模拟炒股 (StarTrade Simulator)",
+  "description": "一个功能齐全的24小时不间断股票交易模拟器，包含200支动态波动的股票、多种K线周期视图、板块分类以及AI投顾分析功能。",
+  "requestFramePermissions": []
+}
